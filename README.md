@@ -1,4 +1,4 @@
-# tanish-1git
+# C-LANGUAGE {LEARNING}
 [HOW TO TYE HELLO WORLD]
 #include<stdio.h>
 int main(){
