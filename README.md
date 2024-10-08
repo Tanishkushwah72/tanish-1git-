@@ -18,5 +18,13 @@ int main(){
     printf("the area of rectangle is %d",length*breadth);
 }
 
+3) HOW TO CONVET CELSIUS TO FAHRENHEIT :
+#include<stdio.h>
+int main(){
+    float c=33.0,f;
+    f=((9.0/5.0)*c)+32;
+    printf("%f",f);
+    return 0;
+}
 
-3)
+4)
