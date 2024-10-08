@@ -36,4 +36,33 @@ int main(){
     return 0;
 }
 
-5) HOW 
+5) HOW TO FIND SIMPAL INTREST :{FOR INPUT} :
+#include<stdio.h>
+int main(){
+    float p=34.5;
+    int r=4;
+    int t=5;
+    printf("the vale of simpal interest is %f",p*r*t/100);
+    return 0;
+}
+
+6) HOW TO FINT SIMPAL INTREST {FOR OUTPUT} :
+   
+#include<stdio.h>
+int main(){
+    float p,r,t,si;
+    printf("enter the principal amount p");
+    scanf("%f",&p);
+     printf("enter the ratr of intrest r");
+    scanf("%f",&r);
+     printf("enter the time of interst t");
+    scanf("%f",&t);
+    si =p*r*t/100;
+    printf("simpale intrest is %.2f\n",si);
+
+    return 0;
+
+}
+
+
+
