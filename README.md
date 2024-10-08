@@ -27,4 +27,13 @@ int main(){
     return 0;
 }
 
-4)
+4) HOW TO CONVERT FAHRENHEIT TO CELSIOUS :
+   #include<stdio.h>
+int main(){
+    float f=91.4,c;
+    c=((f-32)/9)*5;
+    printf("%f",c);
+    return 0;
+}
+
+5) HOW 
